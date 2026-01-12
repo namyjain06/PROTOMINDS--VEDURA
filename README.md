@@ -82,9 +82,9 @@ Admin Dashboard: /admin
 
 👥 Team ProtoMinds
 
-Ujwal Parashar
-
 Namya Jain
+
+Ujwal Parashar
 
 Manav Jain
 
